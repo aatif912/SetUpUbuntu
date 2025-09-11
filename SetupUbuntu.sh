@@ -15,6 +15,7 @@ https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md
 https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/sudo
 https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/history
 https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/INSTALL.md
+https://github.com/zsh-users/zsh-completions
 
 https://github.com/romkatv/powerlevel10k#meslo-nerd-font-patched-for-powerlevel10k
 https://github.com/romkatv/powerlevel10k
